@@ -1,0 +1,44 @@
+input - output examples:
+------------------------
+
+Final Board:
+X | O | X |
+---|---|---|
+O | X |   |
+---|---|---|
+X |   | O |
+---|---|---|
+Winner: player 1
+Would you like to play again (Y/N)?
+
+Final Board:
+X |   | X |
+---|---|---|
+O | O | O |
+---|---|---|
+X |   |   |
+---|---|---|
+Winner: player 2
+Would you like to play again (Y/N)?
+
+Final Board:
+X | O | O |
+---|---|---|
+O | X | X |
+---|---|---|
+X | O | X |
+---|---|---|
+Winner: player 1
+Would you like to play again (Y/N)?
+
+Final Board:
+O | X | O |
+---|---|---|
+O | X | X |
+---|---|---|
+X | O | X |
+---|---|---|
+TIE, no winner...
+Would you like to play again (Y/N)?
+
+
